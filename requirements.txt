@@ -1,9 +1,8 @@
-streamlit
+streamlit==1.39.0
 pandas
 numpy
 scipy
 matplotlib
 xlsxwriter
 openpyxl
-japanize-matplotlib
-ipafont
+
